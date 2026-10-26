@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Onyx EQ
+GenericName=Equalizer
+Comment=System-wide parametric and graphic equalizer for PipeWire
+Exec=onyx-eq %F
+Icon=onyx-eq
+Terminal=false
+Categories=AudioVideo;Audio;Mixer;
+Keywords=equalizer;eq;audio;pipewire;autoeq;apo;
+MimeType=text/plain;
+StartupWMClass=onyx-eq
